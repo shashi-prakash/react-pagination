@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-paginations/static/css/main.90848325.css",
+    "main.js": "/react-paginations/static/js/main.d90e929f.js",
+    "index.html": "/react-paginations/index.html",
+    "main.90848325.css.map": "/react-paginations/static/css/main.90848325.css.map",
+    "main.d90e929f.js.map": "/react-paginations/static/js/main.d90e929f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90848325.css",
+    "static/js/main.d90e929f.js"
+  ]
+}
